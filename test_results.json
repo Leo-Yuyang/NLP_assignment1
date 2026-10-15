@@ -1,0 +1,8 @@
+{
+  "features": "combined",
+  "training_scope": "90% of official training set; development set excluded",
+  "training_sentences": 3575,
+  "precision": 0.7621359223300971,
+  "recall": 0.48096280087527354,
+  "f1": 0.5897504695465523
+}
